@@ -1,3 +1,8 @@
+@import url("grid/index.css");
+@import url("grid/menu.css");
+@import url("grid/secao.css");
+@import url("grid/cartao.css");
+
 /*Reset*/
 a {
     text-decoration: none;

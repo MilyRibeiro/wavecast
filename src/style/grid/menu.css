@@ -1,0 +1,10 @@
+.menu-lateral {
+    display: grid;
+    /* grid-template-rows: auto auto auto 1fr; */
+    grid-template-rows: repeat(3, auto) 1fr;
+    row-gap: 2rem;    /* 36px de espaçamento entre as linhas  */
+}
+
+.menu-lateral__logo {
+    justify-content: center;
+}
