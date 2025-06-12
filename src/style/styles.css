@@ -1,7 +1,7 @@
-@import url("grid/index.css");
-@import url("grid/menu.css");
-@import url("grid/secao.css");
-@import url("grid/cartao.css");
+@import url("grid-flex/");
+@import url("grid-flex//menu.css");
+@import url("grid-flex//secao.css");
+@import url("grid-flex//cartao.css");
 
 /*Reset*/
 a {
